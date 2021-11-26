@@ -25,8 +25,8 @@ export const items: Item[] = [
   {
     date: new Date(2021, 10, 11),
     category: "food",
-    title: "Fazer desafio React da Voalle",
+    title: "Finalizar Curso",
     value: 90,
-    desc: "Fazer um Gerenciador de Tarefas em React",
+    desc: "Curso Front-end React",
   },
 ];
